@@ -1,5 +1,6 @@
 # Design Patterns Training
 
+Pratice Pratice Pratice.
 A comprehensive multi-module Maven project for learning design patterns through hands-on exercises based on realistic software engineering scenarios.
 
 ## 📚 Purpose
